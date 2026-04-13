@@ -22,7 +22,7 @@
 
 ## ♠ ABOUT ME
 
-> *"Code is strategy. Design is intuition. Execution is everything."*
+> *"Play smart. Build sharper. Ship like it’s all on the table."*
 
 I'm a **Software Developer** focused on building **high-quality digital experiences** that combine **performance, design, and functionality**.
 
