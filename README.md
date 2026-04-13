@@ -1,6 +1,8 @@
 # ♠ PEDRO ZALAYETA ♦
 
-### *Software Developer · Web · Machine Learning · Game Dev*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=24&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=Software+Developer;Web+%26+Game+Development;Machine+Learning+Enthusiast;Building+Digital+Experiences" />
+</p>
 
 <p align="center">
   ♠ ♥ ♦ ♣  
@@ -110,6 +112,14 @@ Open-source platform for free education
 
 ---
 
+## ♣ ACTIVITY
+
+<p align="center">
+  <img src="https://github.com/PedroZalayeta/PedroZalayeta/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## ♠ CONTACT
 
 <p align="center">
@@ -128,7 +138,9 @@ Open-source platform for free education
 
 ## ♦ FINAL HAND
 
-> *Always building. Always learning. Always playing the long game.* ♠
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=16&duration=4000&pause=1000&color=C0392B&center=true&vCenter=true&width=500&lines=Always+learning...;Always+building...;Playing+the+long+game+♠" />
+</p>
 
 <p align="center">
   ♠ ♥ ♦ ♣  
