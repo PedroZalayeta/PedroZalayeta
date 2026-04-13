@@ -1,53 +1,135 @@
-# 👋 Hi, I'm **Pedro**
+# ♠ PEDRO ZALAYETA ♦
 
-<!-- Badges -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) 
+### *Software Developer · Web · Machine Learning · Game Dev*
 
-I'm a **Software** and Game Developer passionate about creating engaging digital experiences. I enjoy building projects that blend creativity and functionality, always exploring new technologies and learning along the way.
+<p align="center">
+  ♠ ♥ ♦ ♣  
+</p>
 
-**My Web: (https://pedrozalayeta.github.io/portfolio-vue/)**
-
----
-
-## 💻 Technologies & Tools
-
-- **Frontend:** HTML, CSS, JavaScript, React, VueJS, Tailwind CSS  
-- **Backend:** Node.js, Python, FastAPI, Django  
-- **Game Development:** Godot, Game Maker Studio  
-- **Tools:** Git, GitHub, Figma, VS Code  
+<p align="center">
+  <a href="https://pedrozalayeta.github.io/portfolio-vue/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0d3b1e?style=for-the-badge" />
+  </a>
+  <a href="mailto:zalayetapedro@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-EMAIL-c0392b?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-zalayeta-aa2870375/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## ♠ ABOUT ME
 
-### 🎮 Nauta
-**2D RPG video game** made in Godot with pixel art, featuring a living and breathing world.  
-🔗 Demo / Repo: *Coming Soon*
+> *"Code is strategy. Design is intuition. Execution is everything."*
 
-### 🐦 Pigeon
-A **web extension using Machine Learning and FastAPI** to classify work emails efficiently.  
-🔗 Demo / Repo: *Coming Soon*
+I'm a **Software Developer** focused on building **high-quality digital experiences** that combine **performance, design, and functionality**.
 
-### 📚 LibreCourse *(Contribution)*
-An **open-source website** where you can publish and access completely free courses.  
-🔗 Website / Repo: *(https://github.com/emiliano-gandini-outeda/LibreCourse)*
+* ♠ Founder of **Nautilus Studio** — custom web development for real clients
+* ♦ Training Assistant at **LibreCourse Uruguay**
+* ♥ Passionate about **Machine Learning & backend systems**
+* ♣ Game developer exploring **low-level and creative systems**
 
----
-
-## 📫 Contact
-
-📧 Email: [zalayetapedro@gmail.com](mailto:zalayetapedro@gmail.com)  
-🔗 LinkedIn: https://www.linkedin.com/in/pedro-zalayeta-aa2870375/  
+I approach development like a game of strategy — every decision matters.
 
 ---
 
-## ⚡ Extras
+## ♦ TECH STACK
 
-- Open to freelance opportunities and full‑time positions in web or game development.  
-- Always learning, experimenting, and building new things.
+### ♠ Frontend
+
+`JavaScript` · `Vue` · `React` · `HTML` · `CSS` · `Tailwind`
+
+### ♥ Backend
+
+`Python` · `FastAPI` · `Django` · `Node.js`
+
+### ♦ Machine Learning
+
+`TensorFlow` · `Scikit-learn` · `Pandas`
+
+### ♣ Game Development
+
+`Godot` · `C++` · `Low-level systems`
+
+### 🃏 Tools
+
+`Git` · `Linux` · `Docker` · `Figma` · `VS Code`
+
+---
+
+## ♥ FEATURED PROJECTS
+
+### ♠ NAUTA
+
+**2D RPG Game** developed in Godot
+
+* Focus on immersive worldbuilding
+* Custom gameplay systems
+* Pixel-art driven design
+
+> *In development*
+
+---
+
+### ♥ PIGEON
+
+**Machine Learning Email Classifier**
+
+* Built with FastAPI
+* Automates email categorization
+* Designed for productivity
+
+---
+
+### ♦ LIBRECOURSE *(Contribution)*
+
+Open-source platform for free education
+🔗 https://github.com/emiliano-gandini-outeda/LibreCourse
+
+---
+
+## ♣ EXPERIENCE
+
+### ♠ Nautilus Studio
+
+*Founder · Web Development*
+
+* Development of **custom websites** tailored to clients
+* Focus on **performance, UX, and modern UI**
+
+---
+
+### ♦ LibreCourse Uruguay
+
+*Training Assistant*
+
+* Supporting students in technical learning
+* Contributing to platform growth and content
+
+---
+
+## ♠ CONTACT
+
+<p align="center">
+  ♠ ♥ ♦ ♣  
+</p>
+
+<p align="center">
+  📧 <a href="mailto:zalayetapedro@gmail.com">zalayetapedro@gmail.com</a>  
+  <br>
+  💼 <a href="https://www.linkedin.com/in/pedro-zalayeta-aa2870375/">LinkedIn</a>  
+  <br>
+  🌐 <a href="https://pedrozalayeta.github.io/portfolio-vue/">Portfolio</a>
+</p>
+
+---
+
+## ♦ FINAL HAND
+
+> *Always building. Always learning. Always playing the long game.* ♠
+
+<p align="center">
+  ♠ ♥ ♦ ♣  
+</p>
